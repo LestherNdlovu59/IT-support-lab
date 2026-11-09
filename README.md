@@ -101,10 +101,11 @@ Built by **Lesther Ndlovu** alongside my studies: IIE Higher Certificate in Info
 
 ## Next on my list
 
-- [e.g. CompTIA A+ or Microsoft AZ-900]
-- [e.g. Microsoft Entra ID and Intune]
-- [e.g. a ticketing tool such as Jira Service Management]
+ CompTIA A+ and N+ 
+  Microsoft AZ-900
+
 
 ## Contact
 
-Lesther Ndlovu, Braamfontein, Johannesburg · [email] · [LinkedIn, if you have one]
+Lesther Ndlovu, Braamfontein, Johannesburg · [ndlovulesther6@gmail.com] · [https://za.linkedin.com/in/lesther-ndlovu-b46942337]
+Whatsapp : 067 974 1100
